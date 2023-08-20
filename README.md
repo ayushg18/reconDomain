@@ -30,7 +30,21 @@ Discover the realm of reconnaissance like never before with reconDomain: Your pa
 
         ▶ go install github.com/tomnomnom/waybackurls@latest
   
+## Installation
 
+```
+git clone https://github.com/ayushg18/reconDomain
+cd reconDomain
+chmod +x reconDomain.sh
+```
+
+## Usage
+
+```
+./reconDomain.sh
+```
+
+#
 ## Issues and Support: 
 Feel free to submit an issue on this repository if you run into any problems or have inquiries regarding the utility. We'll be glad to help you, as will the neighborhood.
 We hope you find this tool to be helpful. Coding is fun!
